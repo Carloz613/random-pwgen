@@ -20,7 +20,3 @@ var password=document.getElementById("password");
 
  // Add event listener to generate button
 generateBtn.addEventListener("click", genPassword);
-
-function genPassword() {
-  document.getElementById("password");
-}
